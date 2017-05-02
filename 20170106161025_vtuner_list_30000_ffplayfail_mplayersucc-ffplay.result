@@ -1,0 +1,72 @@
+check vtuner list addr starting...
+
+
+-----------------------------------------------------------------------------------------------
+[00000] [succ] http://company.vtuner.com/setupapp/company/asp/func/dynamOD.asp?ex45v=&id=31739
+[00001] [fail] http://company.vtuner.com/setupapp/company/asp/func/dynamOD.asp?ex45v=&id=31792
+[00002] [fail] http://company.vtuner.com/setupapp/company/asp/func/dynamOD.asp?ex45v=&id=3197
+[00003] [succ] http://company.vtuner.com/setupapp/company/asp/func/dynamOD.asp?ex45v=&id=32464
+[00004] [fail] http://company.vtuner.com/setupapp/company/asp/func/dynamOD.asp?ex45v=&id=32468
+[00005] [fail] http://company.vtuner.com/setupapp/company/asp/func/dynamOD.asp?ex45v=&id=32481
+[00006] [fail] http://company.vtuner.com/setupapp/company/asp/func/dynamOD.asp?ex45v=&id=32569
+[00007] [succ] http://company.vtuner.com/setupapp/company/asp/func/dynamOD.asp?ex45v=&id=30954
+[00008] [fail] http://company.vtuner.com/setupapp/company/asp/func/dynamOD.asp?ex45v=&id=30994
+[00009] [fail] http://company.vtuner.com/setupapp/company/asp/func/dynamOD.asp?ex45v=&id=31010
+[00010] [succ] http://company.vtuner.com/setupapp/company/asp/func/dynamOD.asp?ex45v=&id=31274
+[00011] [fail] http://company.vtuner.com/setupapp/company/asp/func/dynamOD.asp?ex45v=&id=33147
+[00012] [fail] http://company.vtuner.com/setupapp/company/asp/func/dynamOD.asp?ex45v=&id=33579
+[00013] [fail] http://company.vtuner.com/setupapp/company/asp/func/dynamOD.asp?ex45v=&id=33745
+[00014] [fail] http://company.vtuner.com/setupapp/company/asp/func/dynamOD.asp?ex45v=&id=33856
+[00015] [fail] http://company.vtuner.com/setupapp/company/asp/func/dynamOD.asp?ex45v=&id=33897
+[00016] [fail] http://company.vtuner.com/setupapp/company/asp/func/dynamOD.asp?ex45v=&id=339
+[00017] [fail] http://company.vtuner.com/setupapp/company/asp/func/dynamOD.asp?ex45v=&id=33941
+[00018] [fail] http://company.vtuner.com/setupapp/company/asp/func/dynamOD.asp?ex45v=&id=34273
+[00019] [fail] http://company.vtuner.com/setupapp/company/asp/func/dynamOD.asp?ex45v=&id=35059
+[00020] [fail] http://company.vtuner.com/setupapp/company/asp/func/dynamOD.asp?ex45v=&id=35060
+[00021] [fail] http://company.vtuner.com/setupapp/company/asp/func/dynamOD.asp?ex45v=&id=35061
+[00022] [succ] http://company.vtuner.com/setupapp/company/asp/func/dynamOD.asp?ex45v=&id=35226
+[00023] [succ] http://company.vtuner.com/setupapp/company/asp/func/dynamOD.asp?ex45v=&id=35237
+[00024] [fail] http://company.vtuner.com/setupapp/company/asp/func/dynamOD.asp?ex45v=&id=35461
+[00025] [fail] http://company.vtuner.com/setupapp/company/asp/func/dynamOD.asp?ex45v=&id=35472
+[00026] [fail] http://company.vtuner.com/setupapp/company/asp/func/dynamOD.asp?ex45v=&id=35482
+[00027] [succ] http://company.vtuner.com/setupapp/company/asp/func/dynamOD.asp?ex45v=&id=35771
+[00028] [fail] http://company.vtuner.com/setupapp/company/asp/func/dynamOD.asp?ex45v=&id=36377
+[00029] [fail] http://company.vtuner.com/setupapp/company/asp/func/dynamOD.asp?ex45v=&id=36378
+[00030] [fail] http://company.vtuner.com/setupapp/company/asp/func/dynamOD.asp?ex45v=&id=36394
+[00031] [fail] http://company.vtuner.com/setupapp/company/asp/func/dynamOD.asp?ex45v=&id=36396
+[00032] [succ] http://company.vtuner.com/setupapp/company/asp/func/dynamOD.asp?ex45v=&id=36575
+[00033] [fail] http://company.vtuner.com/setupapp/company/asp/func/dynamOD.asp?ex45v=&id=36605
+[00034] [fail] http://company.vtuner.com/setupapp/company/asp/func/dynamOD.asp?ex45v=&id=36606
+[00035] [fail] http://company.vtuner.com/setupapp/company/asp/func/dynamOD.asp?ex45v=&id=36607
+[00036] [fail] http://company.vtuner.com/setupapp/company/asp/func/dynamOD.asp?ex45v=&id=36608
+[00037] [fail] http://company.vtuner.com/setupapp/company/asp/func/dynamOD.asp?ex45v=&id=36609
+[00038] [fail] http://company.vtuner.com/setupapp/company/asp/func/dynamOD.asp?ex45v=&id=36610
+[00039] [fail] http://company.vtuner.com/setupapp/company/asp/func/dynamOD.asp?ex45v=&id=36611
+[00040] [fail] http://company.vtuner.com/setupapp/company/asp/func/dynamOD.asp?ex45v=&id=36728
+[00041] [fail] http://company.vtuner.com/setupapp/company/asp/func/dynamOD.asp?ex45v=&id=36738
+[00042] [fail] http://company.vtuner.com/setupapp/company/asp/func/dynamOD.asp?ex45v=&id=36739
+[00043] [fail] http://company.vtuner.com/setupapp/company/asp/func/dynamOD.asp?ex45v=&id=36740
+[00044] [fail] http://company.vtuner.com/setupapp/company/asp/func/dynamOD.asp?ex45v=&id=36742
+[00045] [fail] http://company.vtuner.com/setupapp/company/asp/func/dynamOD.asp?ex45v=&id=36754
+[00046] [fail] http://company.vtuner.com/setupapp/company/asp/func/dynamOD.asp?ex45v=&id=37683
+[00047] [fail] http://company.vtuner.com/setupapp/company/asp/func/dynamOD.asp?ex45v=&id=37685
+[00048] [fail] http://company.vtuner.com/setupapp/company/asp/func/dynamOD.asp?ex45v=&id=37688
+[00049] [fail] http://company.vtuner.com/setupapp/company/asp/func/dynamOD.asp?ex45v=&id=37704
+[00050] [succ] http://company.vtuner.com/setupapp/company/asp/func/dynamOD.asp?ex45v=&id=37923
+[00051] [fail] http://company.vtuner.com/setupapp/company/asp/func/dynamOD.asp?ex45v=&id=37950
+[00052] [succ] http://company.vtuner.com/setupapp/company/asp/func/dynamOD.asp?ex45v=&id=38395
+[00053] [fail] http://company.vtuner.com/setupapp/company/asp/func/dynamOD.asp?ex45v=&id=38739
+[00054] [fail] http://company.vtuner.com/setupapp/company/asp/func/dynamOD.asp?ex45v=&id=38790
+[00055] [fail] http://company.vtuner.com/setupapp/company/asp/func/dynamOD.asp?ex45v=&id=38791
+[00056] [fail] http://company.vtuner.com/setupapp/company/asp/func/dynamOD.asp?ex45v=&id=389
+[00057] [fail] http://company.vtuner.com/setupapp/company/asp/func/dynamOD.asp?ex45v=&id=39254
+[00058] [fail] http://company.vtuner.com/setupapp/company/asp/func/dynamOD.asp?ex45v=&id=39255
+[00059] [succ] http://company.vtuner.com/setupapp/company/asp/func/dynamOD.asp?ex45v=&id=39311
+[00060] [fail] http://company.vtuner.com/setupapp/company/asp/func/dynamOD.asp?ex45v=&id=39435
+[00061] [fail] http://company.vtuner.com/setupapp/company/asp/func/dynamOD.asp?ex45v=&id=39436
+[00062] [succ] http://company.vtuner.com/setupapp/company/asp/func/dynamOD.asp?ex45v=&id=39473
+[00063] [fail] http://company.vtuner.com/setupapp/company/asp/func/dynamOD.asp?ex45v=&id=39559
+-----------------------------------------------------------------------------------------------
+
+
+check vtuner list addr end: total=64, cucc=12, fail=52
